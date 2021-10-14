@@ -1,0 +1,21 @@
+.judul {
+    font: bold 28px arial;
+    color: #9bcd23;
+}
+
+.menu {
+    font: bold 22px arial;
+    color: #ff2345;
+}
+            
+.menu a {
+    font: bold 22px arial;
+    color: #be2345;
+    text-decoration:none;
+}
+
+.menu a:hover {
+    font: bold 24px arial;
+    color: green;
+    text-decoration:italic;
+}

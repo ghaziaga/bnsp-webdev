@@ -1,0 +1,23 @@
+
+    .menu {
+        font: bold 22px arial; 
+        text-decoration:none;
+        color:#cc23ff;
+    }            
+
+    .menu a {
+        font: normal 22px arial; 
+        text-decoration:none;
+        color:#cc23ff;
+    }
+
+    .menu a:hover {
+        font: bold 22px arial; 
+        text-decoration:italic;
+        color:#0023ff;
+    }
+
+    .judul  {
+        font: bold 22px arial; 
+        color:#ff2355;
+    }
